@@ -1,0 +1,6 @@
+﻿logs/
+*.pdb
+*.log
+*.exe
+*.dll
+!AlBayanUpdate.zip
